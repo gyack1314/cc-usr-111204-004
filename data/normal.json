@@ -1,0 +1,22 @@
+{
+  "file": "wind.nc",
+  "strong_etag": "\"wind-v1\"",
+  "windows": {
+    "power": {
+      "start": [
+        0,
+        0
+      ],
+      "count": [
+        2,
+        1
+      ],
+      "stride": [
+        1,
+        2
+      ]
+    }
+  },
+  "max_range_bytes": 64,
+  "max_overread_bytes": 8
+}
